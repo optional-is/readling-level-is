@@ -1,0 +1,7 @@
+{
+  "name": "Icelandic Reading Level",
+  "description": "This will take Icelandic text and give an estimated reading level",
+  "keywords": ["python", "flask", "icelandic", "reading level"],
+  "website": "https://github.com/optional-is/reading-level-is",
+  "repository": "https://github.com/optional-is/reading-level-is"
+}
